@@ -37,6 +37,31 @@ It should include:
 - a link back to GitHub
 - a Japanese layer, but not as the only language
 
+## Public link display
+
+Do not display the current GitHub owner name on the public flyer.
+
+Use text such as:
+
+```text
+Enter the repository
+Repository Contextへ入る
+```
+
+The actual URL may point to the current repository for now.
+The repository can later be moved to a neutral GitHub Organization.
+
+## Future organization transfer
+
+Planned later:
+
+```text
+Current: smilegroupsato/free-party-context
+Future: neutral organization / free-party-context
+```
+
+The organization name should preserve the world of `Eternal Free Party` and avoid exposing private operator names on the public surface.
+
 ## Principle
 
 Do not over-explain.
