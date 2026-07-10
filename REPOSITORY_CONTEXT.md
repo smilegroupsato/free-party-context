@@ -173,6 +173,7 @@ README.md
 → docs/concept.md
 → docs/web-flyer.md
 → docs/role-emergence.md
+→ docs/issues-as-gathering-spots.md
 ```
 
 If you are an AI agent, read `AGENTS.md` before making any change.
@@ -227,5 +228,7 @@ Webはフライヤーである。
 完成した共同体ではなく、ムラになる前の気配である。
 
 役割は、任命ではなく、見えるようになった反復にあとから名前が与えられることで発生する。
+
+Issueは、タスクボードではなく、問いや違和感を置く小さな火である。
 
 ここでは、大きく名乗るより先に、小さく読む。
