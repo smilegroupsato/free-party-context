@@ -56,16 +56,10 @@ The address is still forming.
 
 ## Published source
 
-The published flyer should be built from:
+The published flyer lives under:
 
 ```text
-free-party-context/flyer/
-```
-
-The canonical source for the flyer files is:
-
-```text
-rinkaku-no-mae-ni/docs/public/free-party-context/flyer/
+flyer/
 ```
 
 The root of the repository should stay clean as context.
@@ -104,7 +98,7 @@ The flyer should not:
 
 ## Public link display
 
-Do not display the current GitHub owner name on the public flyer.
+Do not display private operator names on the public flyer.
 
 Use text such as:
 
@@ -121,12 +115,7 @@ The repository can later be moved to a neutral GitHub Organization.
 
 ## Future organization transfer
 
-Planned later:
-
-```text
-Current: smilegroupsato/free-party-context
-Future: neutral organization / free-party-context
-```
+The repository may later move to a neutral GitHub Organization.
 
 The organization name should preserve the world of `Eternal Free Party` and avoid exposing private operator names on the public surface.
 
