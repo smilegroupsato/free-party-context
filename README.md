@@ -86,10 +86,11 @@ The repository is the venue.
 After the first arrival, continue in any order that the question requires:
 
 1. [`docs/concept.md`](docs/concept.md) — concept and first boundary
-2. [`docs/web-flyer.md`](docs/web-flyer.md) — why the web is a flyer
-3. [`docs/role-emergence.md`](docs/role-emergence.md) — how roles appear later
-4. [`docs/issues-as-gathering-spots.md`](docs/issues-as-gathering-spots.md) — how issues hold small fires
-5. [`docs/story-history.md`](docs/story-history.md) — how histories gather into story
+2. [`docs/becoming.md`](docs/becoming.md) — how a place becomes readable before structure
+3. [`docs/web-flyer.md`](docs/web-flyer.md) — why the web is a flyer
+4. [`docs/story-history.md`](docs/story-history.md) — how histories gather into story
+5. [`docs/role-emergence.md`](docs/role-emergence.md) — how roles appear later
+6. [`docs/issues-as-gathering-spots.md`](docs/issues-as-gathering-spots.md) — how issues hold small fires
 
 ---
 
