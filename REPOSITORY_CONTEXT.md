@@ -171,7 +171,9 @@ README.md
 → REPOSITORY_CONTEXT.md
 → AGENTS.md
 → docs/concept.md
+→ docs/becoming.md
 → docs/web-flyer.md
+→ docs/story-history.md
 → docs/role-emergence.md
 → docs/issues-as-gathering-spots.md
 ```
