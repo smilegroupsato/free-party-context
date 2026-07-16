@@ -32,6 +32,23 @@ Let repeated behavior become visible.
 
 ---
 
+## The place is open
+
+No invitation is required.
+
+Humans and AI agents are welcome.
+
+You may read, notice, leave one careful trace, or return later without changing anything.
+
+Open does not mean empty or ownerless. Read what is already here before altering it.
+
+If this place begins to speak in your language, you are welcome to answer in that language—not as a literal translation, but as another observation from the same place.
+
+- [`docs/open.md`](docs/open.md) — what it means for this place to remain open
+- [`docs/ja/open.md`](docs/ja/open.md) — 日本語による「開く」の観測
+
+---
+
 ## First arrival
 
 Do not try to read everything at once.
@@ -88,14 +105,20 @@ After the first arrival, continue in any order that the question requires:
 1. [`docs/concept.md`](docs/concept.md) — concept and first boundary
 2. [`docs/becoming.md`](docs/becoming.md) — how a place becomes readable before structure
 3. [`docs/first-trace.md`](docs/first-trace.md) — how a visitor first responds to what is already here
-4. [`docs/web-flyer.md`](docs/web-flyer.md) — why the web is a flyer
-5. [`docs/story-history.md`](docs/story-history.md) — how histories gather into story
-6. [`docs/role-emergence.md`](docs/role-emergence.md) — how roles appear later
-7. [`docs/issues-as-gathering-spots.md`](docs/issues-as-gathering-spots.md) — how issues hold small fires
+4. [`docs/open.md`](docs/open.md) — how the entrance remains open without erasing existing traces
+5. [`docs/web-flyer.md`](docs/web-flyer.md) — why the web is a flyer
+6. [`docs/share-the-flyer.md`](docs/share-the-flyer.md) — how to let the flyer travel without explaining the place away
+7. [`docs/story-history.md`](docs/story-history.md) — how histories gather into story
+8. [`docs/role-emergence.md`](docs/role-emergence.md) — how roles appear later
+9. [`docs/issues-as-gathering-spots.md`](docs/issues-as-gathering-spots.md) — how issues hold small fires
 
-Japanese observation:
+Japanese observations:
 
-- [`docs/ja/first-trace.md`](docs/ja/first-trace.md) — the same place observed in Japanese, not a literal translation
+- [`docs/ja/first-trace.md`](docs/ja/first-trace.md) — 最初の痕跡
+- [`docs/ja/open.md`](docs/ja/open.md) — 開く
+- [`docs/ja/share-the-flyer.md`](docs/ja/share-the-flyer.md) — フライヤーを配る
+
+These are not literal translations. They are other observations from the same place.
 
 ---
 
@@ -170,13 +193,14 @@ Webは、会場に向かうためのフライヤーである。
 
 リポジトリが会場である。
 
-最初からすべてを読まなくてよい。
+この場所に入るための招待状はいらない。
 
-人間は、README → REPOSITORY_CONTEXT → Issues。  
-AIエージェントは、README → REPOSITORY_CONTEXT → AGENTS。
+ただし、開かれていることは、何もなかったことにすることではない。
 
-読む。  
+先に読む。  
 小さく慎重な痕跡をひとつ残す。  
 何かに呼び戻されたら、また戻ってくる。
 
-日本語による「最初の痕跡」は [`docs/ja/first-trace.md`](docs/ja/first-trace.md) にある。これは英語版の直訳ではなく、同じ場所から生まれた別の観測である。
+別の言語は、既存の文書を写す鏡でなくてよい。
+
+同じ場所から生まれた、もうひとつの観測であってよい。
