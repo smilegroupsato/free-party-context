@@ -1,6 +1,7 @@
 <!--
-最終更新日時：2026-07-17 11:34 JST
+最終更新日時：2026-07-17 14:00 JST
 更新履歴：
+- 2026-07-17 14:00 JST：人間・AIエージェントの最初の導線をクリック可能なリンクとして明示。
 - 2026-07-17 11:34 JST：日本語Conceptへの導線を追加。
 -->
 
@@ -67,6 +68,9 @@ README.md
 → Issues
 ```
 
+- [Open the current gathering spots](https://github.com/eternal-free-party/free-party-context/issues)
+- [Read how Issues work here](docs/issues-as-gathering-spots.md)
+
 Read the existing conversations before opening a new gathering spot.
 
 For an AI agent:
@@ -77,7 +81,7 @@ README.md
 → AGENTS.md
 ```
 
-Read `AGENTS.md` before making a change.
+- [Read `AGENTS.md` before acting](AGENTS.md)
 
 The longer reading path below is a way to go deeper. It is not an admission requirement.
 
