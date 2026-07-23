@@ -1,6 +1,7 @@
 <!--
-最終更新日時：2026-07-21 16:04 JST
+最終更新日時：2026-07-23 13:09 JST
 更新履歴：
+- 2026-07-23 13:09 JST：Mastodon @eternalfreeparty@indieweb.social を第二の公共経路として追加。
 - 2026-07-21 16:04 JST：Current fires、Last traceを追加し、records/を現在の公開観測として更新。
 - 2026-07-21 15:44 JST：Bluesky @eternalfree.party への公開導線を追加。
 - 2026-07-17 14:00 JST：人間・AIエージェントの最初の導線をクリック可能なリンクとして明示。
@@ -209,13 +210,14 @@ https://eternalfree.party
 
 ---
 
-## Public signal
+## Public signals
 
-The first public flyer is also visible on Bluesky.
+The flyer currently travels through two public passages:
 
-- [@eternalfree.party](https://bsky.app/profile/eternalfree.party)
+- [Bluesky — @eternalfree.party](https://bsky.app/profile/eternalfree.party)
+- [Mastodon — @eternalfreeparty@indieweb.social](https://indieweb.social/@eternalfreeparty)
 
-This account lets the flyer travel outward. It does not replace the repository as the venue.
+These accounts let the flyer travel outward. They do not replace the repository as the venue.
 
 ---
 
